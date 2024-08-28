@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Guitar Fundamental",
+            "slug": "guiter-fundamentals",
+            "description": "Learn the basics of playing guiter with our comprehensive begginer's course.",
+            "price": 99.99,
+            "instructer": "John Doe",
+            "isFeatured": true,
+            "image": "/course/guiter.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Piano for Beginners",
+            "slug": "Piano-for-beginners",
+            "description": "Start your musical journey with foundational piano skill taught by expert instuctors.",
+            "price": 109.99,
+            "instructer": "Jane ssmith",
+            "isFeatured": false,
+            "image": "/course/piano.jpg"  
+        },
+        {
+            "id": 3,
+            "title":"Advanced vocal Techniques",
+            "slug": "Advanced-vocal-Techniques",
+"description": "Enhance your singing with advanced vocal techniques for intermediate to advance learners.",
+"price":119.99,
+"instructer": "Emily Johnson",
+"isFeatured": true,
+"image": "/course/vocalist.jpg"
+        },
+    ]
+}
