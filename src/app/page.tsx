@@ -1,7 +1,12 @@
 
+import { ThemeToggle } from "@/components/themes/theme-button";
+import HeroSection from "@/components/ui/HeroSection";
 
 export default function Home() {
   return (
-    <h1 className="text-2xl  text-center">Chai or code with kuldeep saini official websites</h1>
+    <main className="min-h-screen  antialiased bg-grid-white/[0.02] ">
+      <ThemeToggle />
+      <HeroSection />
+    </main>
   );
 }
