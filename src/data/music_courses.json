@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Guitar Fundamentals",
+            "slug": "guitar fundamentals",
+            "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+            "price": 99.99,
+            "instrutor": "Kamala Harris",
+            "isFeatured": true,
+            "image": "/courses/guitar.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Piano for Beginners",
+            "slug": "piano-for-beginners",
+            "description": "Learn the basics of playing piano with our comprehensive beginner's course.",
+            "price": 109.99,
+            "instrutor": "john Doe",
+            "isFeatured": true,
+            "image": "/courses/guitar.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Coding for Beginners",
+            "slug": "coding-for-beginners",
+            "description": "Learn the basics of playing piano with our comprehensive beginner's course.",
+            "price": 101.99,
+            "instrutor": "Kim jong",
+            "isFeatured": true,
+            "image": "/courses/guitar.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Programing for Beginners",
+            "slug": "programing-for-beginners",
+            "description": "Learn the basics of playing piano with our comprehensive beginner's course.",
+            "price": 101.99,
+            "instrutor": "Yogi G",
+            "isFeatured": true,
+            "image": "/courses/guitar.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Engineer for Beginners",
+            "slug": "engineer-for-beginners",
+            "description": "Learn the basics of playing piano with our comprehensive beginner's course.",
+            "price": 101.99,
+            "instrutor": "Putin",
+            "isFeatured": true,
+            "image": "/courses/guitar.jpg"
+        }
+    ]
+}
