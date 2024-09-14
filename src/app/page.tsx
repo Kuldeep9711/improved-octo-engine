@@ -2,6 +2,7 @@
 import FeaturedCourses from "@/components/FeaturedCourses";
 import { ThemeToggle } from "@/components/themes/theme-button";
 import HeroSection from "@/components/ui/HeroSection";
+import WhyChooseUs from "@/components/ui/WhyChooseUs";
 
 export default function Home() {
   return (
@@ -9,6 +10,7 @@ export default function Home() {
       <ThemeToggle />
       <HeroSection />
       < FeaturedCourses />
+      <WhyChooseUs />
     </main>
   );
 }
