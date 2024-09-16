@@ -1,7 +1,9 @@
 
 import FeaturedCourses from "@/components/FeaturedCourses";
+import MusicScchoolTestimonialcards from "@/components/Testimonialcards";
 import { ThemeToggle } from "@/components/themes/theme-button";
 import HeroSection from "@/components/ui/HeroSection";
+import { InfiniteMovingCards } from "@/components/ui/infinite-moving-cards";
 import WhyChooseUs from "@/components/ui/WhyChooseUs";
 
 export default function Home() {
@@ -11,6 +13,8 @@ export default function Home() {
       <HeroSection />
       < FeaturedCourses />
       <WhyChooseUs />
+      <MusicScchoolTestimonialcards />
+      
     </main>
   );
 }
