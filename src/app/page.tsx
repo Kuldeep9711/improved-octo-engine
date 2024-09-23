@@ -5,6 +5,7 @@ import { ThemeToggle } from "@/components/themes/theme-button";
 import HeroSection from "@/components/ui/HeroSection";
 import { InfiniteMovingCards } from "@/components/ui/infinite-moving-cards";
 import WhyChooseUs from "@/components/ui/WhyChooseUs";
+import Upcomingwebinar from "@/components/Upcomingwebinar";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       < FeaturedCourses />
       <WhyChooseUs />
       <MusicScchoolTestimonialcards />
+      <Upcomingwebinar />
       
     </main>
   );
