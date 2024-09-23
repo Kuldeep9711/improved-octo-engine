@@ -16,7 +16,8 @@ export default function Home() {
       <WhyChooseUs />
       <MusicScchoolTestimonialcards />
       <Upcomingwebinar />
-      
+       <Instructor/>
+
     </main>
   );
 }
