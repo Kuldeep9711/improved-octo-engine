@@ -7,7 +7,7 @@ import { InfiniteMovingCards } from "@/components/ui/infinite-moving-cards";
 import WhyChooseUs from "@/components/ui/WhyChooseUs";
 import Upcomingwebinar from "@/components/Upcomingwebinar";
 import Instructor from "@/components/Instructor";
-
+import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -19,6 +19,7 @@ export default function Home() {
       <MusicScchoolTestimonialcards />
       <Upcomingwebinar />
        <Instructor />
+       <Footer />
 
     </main>
   );
