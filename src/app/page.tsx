@@ -6,6 +6,8 @@ import HeroSection from "@/components/ui/HeroSection";
 import { InfiniteMovingCards } from "@/components/ui/infinite-moving-cards";
 import WhyChooseUs from "@/components/ui/WhyChooseUs";
 import Upcomingwebinar from "@/components/Upcomingwebinar";
+import Instructor from "@/components/Instructor";
+
 
 export default function Home() {
   return (
@@ -16,7 +18,7 @@ export default function Home() {
       <WhyChooseUs />
       <MusicScchoolTestimonialcards />
       <Upcomingwebinar />
-       <Instructor/>
+       <Instructor />
 
     </main>
   );
