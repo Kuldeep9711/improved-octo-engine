@@ -84,6 +84,7 @@ function Footer() {
           </p>
         </div>
       </div>
+      <p className="text-center text-xs pt-8">@ 2024 Music School.All rights reserved.</p>
     </footer>
   );
 }
